@@ -30,11 +30,7 @@ h1 align="center">Hi 👋, I'm Naman Mishra</h1>
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)][leetcode]
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)][gfg]
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)][codechef]
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
+
 
 [linkedin]: (https://www.linkedin.com/in/naman-mishra-71070b250/)
 [leetcode]:(https://leetcode.com/u/mishra_naman/)
@@ -44,7 +40,7 @@ h1 align="center">Hi 👋, I'm Naman Mishra</h1>
 
 
 
-## Languages and Tools:</h3>
+
 ## Languages and Tools:
 
 <div align="center">
