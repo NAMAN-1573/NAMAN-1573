@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Naman Mishra</h1>
+<h1 align="center">Hi 👋, I'm Naman Mishra</h1>
 <h3 align="center">Frontend Ethusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes&label=Profile%20views&color=0e75b6&style=flat" alt="yes" width="150"/> </p>
@@ -97,8 +97,8 @@ h1 align="center">Hi 👋, I'm Naman Mishra</h1>
 
 ###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true" alt="yes" width="530"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="yes" width="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yes" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-Mishra&theme=vue-dark&hide_border=true" alt="yes" width="530"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naman-Mishra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="yes" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Mishra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yes" width="450"/>
   
 </div>
