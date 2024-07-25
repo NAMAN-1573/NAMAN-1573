@@ -98,11 +98,10 @@ h1 align="center">Hi 👋, I'm Naman Mishra</h1>
 ###
 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true" alt="yes" width="530"/>
+/*<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true" alt="yes" width="530"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="yes" width="500"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yes" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Maheshwari&theme=vue-dark&hide_border=true" alt="Streak stats" width="530"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" width="450"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Maheshwari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages" width="450"/>*/
 </div>
